@@ -1,5 +1,4 @@
-# Full Stack Currency Conversion Application with CRUD operations Documentation
-
+# Full Stack Currency Conversion Application with CRUD operations.
 ## **Technologies Used**
 - **Backend**: Node.js, Express.js  
 - **Frontend**: React, Axios  
