@@ -1,4 +1,4 @@
-# Currency Conversion Application Documentation
+# Full Stack Currency Conversion Application with CRUD operations Documentation
 
 ## **Technologies Used**
 - **Backend**: Node.js, Express.js  
